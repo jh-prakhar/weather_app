@@ -1,0 +1,24 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+httpx
+pydanticfastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+httpx
+pydantic
+python-dotenv
+geopy
+pandas      # for CSV export convenience
+python-multipart
+reportlab   # optional for PDF export
+
+python-dotenv
+geopy
+pandas      # for CSV export convenience
+python-multipart
+reportlab   # optional for PDF export
